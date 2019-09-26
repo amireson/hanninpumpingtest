@@ -1,0 +1,6 @@
+ID, Ground elevation (m), Distance to well (m), Depth of screen (m), Height of stickup (m)
+Well, 557.344, 0., 0 
+Piezo 1, 557.215, 4.82, 0
+Piezo 2, 557.094, 9.97, 5.510, 0.57 
+Piezo 3, 557.000, 15.17, 0,0
+Piezo 4, 556.564, 27.42, 0,0
